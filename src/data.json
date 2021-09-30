@@ -1,0 +1,28 @@
+[
+   {
+      "name": "persons",
+      "values": [
+         {
+            "name": "Edward",
+            "country": "Chile"
+         },
+         {
+            "name": "Juan",
+            "country": "Argentina"
+         }
+      ]
+   },
+   {
+      "name": "dogs",
+      "values": [
+         {
+            "name": "Bartolo",
+            "breed": "GSD"
+         },
+         {
+            "name": "Thor",
+            "breed": "Golden"
+         }
+      ]
+   }
+]
