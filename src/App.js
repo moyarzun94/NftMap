@@ -1,5 +1,5 @@
 import { ListRarities } from "./components/ListRarities";
-import data from "./data.json";
+import data from "./raritiesToReactMap.json";
 
 const App = () => {
    return <ListRarities data={data} />;
